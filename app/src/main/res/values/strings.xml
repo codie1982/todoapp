@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KotlinToDoApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kategori_adi">Kategori Adı</string>
+    <string name="yeni_bir_kategori_ekle">Yeni bir Kategori Ekle</string>
+
+    <string-array name="complete_list_items">
+        <item>Manuel</item>
+        <item>Zamana Göre</item>
+        <item>Lokasyona Göre</item>
+        <item>Miktara Göre</item>
+    </string-array>
+
+    <string-array name="category_list_items">
+        <item>Ev İşleri</item>
+        <item>İlaç Saatleri</item>
+        <item>Yapılacaklar</item>
+        <item>Ödemeler</item>
+    </string-array>
+</resources>
